@@ -1,0 +1,1 @@
+Copy **.editorconfig** file to root directory of project
